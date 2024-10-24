@@ -1,5 +1,5 @@
 ﻿
-
+//Tim Petersen SUT24
 namespace Into_till_OOP
 {
     internal class Program
