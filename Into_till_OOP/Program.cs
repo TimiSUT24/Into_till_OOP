@@ -11,9 +11,9 @@ namespace Into_till_OOP
 
             var circle2 = new Circle(6); 
             Console.WriteLine($"Arean på cirkel 2 är: {circle2.GetArea()}");
-
+           
         }
-        public class Circle
+         class Circle
         {
              float _pi = 3.141f;
              int Radius;
